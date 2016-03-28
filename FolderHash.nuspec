@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FolderHash</id>
+    <version>1.0</version>
+    <authors>Peter Gill</authors>
+    <owners>Peter Gill</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Create and print SHA512 hash of folder.</description>
+    <releaseNotes />
+    <tags>FolderHash, hash, sha512</tags>
+  </metadata>
+</package>
