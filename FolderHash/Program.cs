@@ -11,7 +11,7 @@ namespace FolderHash
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(GetSha512FolderHash(args[0]));
+            Console.Write(GetSha512FolderHash(args[0]));
         }
 
         public static string GetSha512FolderHash(string path)
